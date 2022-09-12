@@ -11,7 +11,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>登录页面</title>
+    <title>登录页面2</title>
 </head>
 <body>
 <form action="NewServlet" method="post">
