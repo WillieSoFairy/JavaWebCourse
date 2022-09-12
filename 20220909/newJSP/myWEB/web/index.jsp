@@ -11,17 +11,17 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>登录页面1</title>
+    <title>登录页面</title>
 </head>
 <body>
 <form action="NewServlet" method="post">
     <table>·
         <tr>
-            <td>用户：</td>
+            <td>用户名：</td>
             <td><input type="text" name="username"/></td>
         </tr>
         <tr>
-            <td>密&nbsp;&nbsp;码：</td>
+            <td>密码：</td>
             <td><input type="password" name="password"/></td>
         </tr>
         <tr>
