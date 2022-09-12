@@ -15,7 +15,7 @@
 </head>
 <body>
 <form action="NewServlet" method="post">
-    <table>
+    <table>·
         <tr>
             <td>用户名：</td>
             <td><input type="text" name="username"/></td>
