@@ -15,8 +15,8 @@ public class myServlet extends HttpServlet {
         PrintWriter out = response.getWriter();
         out.println("<html>");
         out.println("<body>");
-        out.println("<h1>New Servlet Test</h1>");
-        out.println("<h3>By Willie So</h3>");
+        out.println("<h1>The first Servlet Project</h1>");
+        out.println("<h3>By Willie So on Sep. 09, 2022</h3>");
         String username = request.getParameter("username");
         String password = request.getParameter("password");
         out.println("Username: " + username + "</br>");
