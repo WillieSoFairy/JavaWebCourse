@@ -13,9 +13,15 @@ public class myServlet extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         PrintWriter out = response.getWriter();
+        out.println("<html>");
+        out.println("<body>");
+        out.println("<h1>New Servlet Test</h1>");
+        out.println("<h3>By Willie So</h3>");
         String username = request.getParameter("username");
         String password = request.getParameter("password");
-        out.println(username);
-        out.println(password);
+        out.println("Username: " + username + "</br>");
+        out.println("Password: " + password);
+        out.println("</body>");
+        out.println("</html>");
     }
 }
