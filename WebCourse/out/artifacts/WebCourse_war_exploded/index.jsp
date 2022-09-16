@@ -16,17 +16,20 @@
 <table border="1">
     <tr>
         <th>实验名称</th>
-        <th>时间</th>
+        <th>开始日期</th>
+        <th>报告提交日期</th>
         <th>状态</th>
     </tr>
     <tr>
         <td><a href="WEB_20220910/login.jsp" target="_blank">实验一：简单的Servlet与JSP</a></td>
         <td>Sep. 09, 2022</td>
+        <td>Sep. 14, 2022</td>
         <td>已完成</td>
     </tr>
     <tr>
         <td>实验二：HTTP请求、响应对象</td>
         <td>Sep. 16, 2022</td>
+        <td></td>
         <td>进行中</td>
     </tr>
 </table>
