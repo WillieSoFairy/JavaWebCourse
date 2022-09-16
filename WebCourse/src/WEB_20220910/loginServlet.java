@@ -24,7 +24,7 @@ public class loginServlet extends HttpServlet {
         String password = request.getParameter("password");
         out.println("Username: " + username + "</br>");
         out.println("Password: " + password + "</br>");
-        /**out.println("<a href=\"http://106.55.224.60:8080/\">back</a>");**/
+        out.println("<a href=\"http://106.55.224.60:8080/WEB_20220910/login.jsp\">back</a>");
         out.println("</body>");
         out.println("</html>");
     }
