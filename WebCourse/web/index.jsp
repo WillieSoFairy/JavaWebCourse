@@ -19,18 +19,21 @@
         <th>开始日期</th>
         <th>报告提交日期</th>
         <th>状态</th>
+        <th>报告原文</th>
     </tr>
     <tr>
         <td><a href="WEB_20220910/login.jsp" target="_blank">实验一：简单的Servlet与JSP</a></td>
         <td>Sep. 09, 2022</td>
         <td>Sep. 14, 2022</td>
         <td>已完成</td>
+        <td><a href="/report/report_20220909.pdf" target="_blank">查看/下载</a></td>
     </tr>
     <tr>
         <td>实验二：HTTP请求、响应对象</td>
         <td>Sep. 16, 2022</td>
         <td></td>
         <td>进行中</td>
+        <td></td>
     </tr>
 </table>
 </body>
