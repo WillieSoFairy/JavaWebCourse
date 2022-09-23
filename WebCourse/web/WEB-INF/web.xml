@@ -11,8 +11,8 @@
 
 
     <servlet>
-        <servlet-name>WebServlet</servlet-name>
-        <servlet-class>WEB_20220916.WebServlet</servlet-class>
+        <servlet-name>WEBServlet</servlet-name>
+        <servlet-class>WEB_20220916.WEBServlet</servlet-class>
 
         <init-param>
             <description>servlet范围内的参数</description>
@@ -22,8 +22,8 @@
 
     </servlet>
     <servlet-mapping>
-        <servlet-name>WebServlet</servlet-name>
-        <url-pattern>/WebServlet</url-pattern>
+        <servlet-name>WEBServlet</servlet-name>
+        <url-pattern>/WEBServlet</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
