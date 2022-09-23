@@ -29,7 +29,7 @@
         <td><a href="/report/report_20220909.pdf" target="_blank">查看/下载</a></td>
     </tr>
     <tr>
-        <td><a href="ClientInfoServlet" target="_blank">实验二：HTTP请求、响应对象</a></td>
+        <td><a href="WEB_20220916/HomePage.html" target="_blank">实验二：HTTP请求、响应对象</a></td>
         <td>Sep. 16, 2022</td>
         <td></td>
         <td>进行中</td>
