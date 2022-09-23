@@ -28,8 +28,8 @@
         <td>已完成</td>
         <td><a href="/report/report_20220909.pdf" target="_blank">查看/下载</a></td>
     </tr>
-    <tr>t
-        <td>实验二：HTTP请求、响应对象</td>
+    <tr>
+        <td><a href="WEB_20220916/ClientInfoServlet" target="_blank">实验二：HTTP请求、响应对象</a></td>
         <td>Sep. 16, 2022</td>
         <td></td>
         <td>进行中</td>
