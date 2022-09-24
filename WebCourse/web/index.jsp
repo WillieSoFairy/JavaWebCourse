@@ -13,6 +13,8 @@
 <body>
 <h1>Welcome!</h1>
 <h3>Web编程技术实验线上测试环境<br>By Willie So</h3>
+<h3><a href="https://gitee.com/willieso123456/java-web-course" target="_blank">查看项目源码 - gitee</a></h3>
+<br>
 <table border="1">
     <tr>
         <th>实验名称</th>
