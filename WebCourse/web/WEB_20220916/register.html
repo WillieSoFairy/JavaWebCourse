@@ -1,27 +1,31 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>考试申请</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
+
 <body>
-<form method="post" action="/ParameterServlet">
-    姓&nbsp;&nbsp;名：<input type="text" name="name"><br>
-    考试科目：
-    <span style="font-size:18px;"><select id="projectPorperty" name="subject">
-                             <option value="1">java web</option>
-                             <option value="2">C语言程序设计</option>
-                             <option value="3">数据结构</option>
-           </select>
-           <script>
-                      form.projectPorperty.value = '${user.projectPorperty}';
-           </script></span>
-    </br>
-    学&nbsp;&nbsp;号：<input type="text" name="number"><br>
-    密&nbsp;&nbsp;码：<input type="password" name="password"><br>
-    <input type="submit" value="提交">
-    <input type="reset" value="重设">
-</form>
+    <form method="post" action="/ParameterServlet">
+        姓&nbsp;&nbsp;名：<input type="text" name="name"><br>
+        考试科目：
+        <span style="font-size:18px;"><select id="projectPorperty" name="subject">
+                <option value="1">语文</option>
+                <option value="2">数学</option>
+                <option value="3">英语</option>
+            </select>
+            <script>
+                form.projectPorperty.value = '${user.projectPorperty}';
+            </script>
+        </span>
+        </br>
+        学&nbsp;&nbsp;号：<input type="text" name="number"><br>
+        密&nbsp;&nbsp;码：<input type="password" name="password"><br>
+        <input type="submit" value="提交">
+        <input type="reset" value="重设">
+    </form>
 </body>
+
 </html>

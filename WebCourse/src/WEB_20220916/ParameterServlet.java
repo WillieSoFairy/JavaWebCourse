@@ -28,11 +28,11 @@ public class ParameterServlet extends HttpServlet {
 
         String subject;
         if (subjectValue.equals("1")) {
-            subject = "java web";
+            subject = "语文";
         } else if (subjectValue.equals("2")) {
-            subject = "C语言程序设计";
+            subject = "数学";
         } else {
-            subject = "数据结构";
+            subject = "英语";
         }
 
         PrintWriter out = response.getWriter();

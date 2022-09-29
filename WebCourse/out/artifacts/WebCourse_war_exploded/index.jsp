@@ -21,7 +21,7 @@
         <th>开始日期</th>
         <th>报告提交日期</th>
         <th>状态</th>
-        <th>报告原文</th>
+        <th>报告原文</th>0
     </tr>
     <tr>
         <td><a href="WEB_20220910/login.jsp" target="_blank">实验一：简单的Servlet与JSP</a></td>

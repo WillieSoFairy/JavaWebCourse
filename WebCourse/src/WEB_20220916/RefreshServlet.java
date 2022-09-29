@@ -13,7 +13,7 @@ public class RefreshServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         response.setContentType("text/html;charset=gb2312");
-        response.setHeader("refresh", "3");
+        response.setHeader("refresh", "5");
 
         PrintWriter out = response.getWriter();
         Date date = new Date();
@@ -22,7 +22,7 @@ public class RefreshServlet extends HttpServlet {
 
         out.println("<html>");
         out.println("<body>");
-        out.println("<h3 align=\"center\">每3秒钟刷新一次页面</h3><p>");
+        out.println("<h3 align=\"center\">每5秒钟刷新一次页面</h3><p>");
         out.println("<h3 align=\"center\">现在的时间是：" + s + "</h3><p>");
 
         out.println("</body>");
