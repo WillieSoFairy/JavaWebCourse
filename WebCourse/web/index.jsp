@@ -35,7 +35,7 @@
         <td>Sep. 16, 2022</td>
         <td></td>
         <td>进行中</td>
-        <td><a href="/report/20220929.docx" target="_blank">查看/下载</a></td>
+        <td></td>
     </tr>
 </table>
 </body>
