@@ -38,7 +38,7 @@
         <td><a href="/report/report_20220929.pdf" target="_blank">查看/下载</a></td>
     </tr>
     <tr>
-        <td><a href="WEB_20220916/HomePage.html" target="_blank">实验三：Servlet容器模型</a></td>
+        <td>实验三：Servlet容器模型</td>
         <td>Sep. 30, 2022</td>
         <td></td>
         <td>进行中</td>
