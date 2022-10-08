@@ -40,8 +40,8 @@
     <tr>
         <td><a href="WEB_20220930/HomePage.html" target="_blank">实验三：Servlet容器模型</a></td>
         <td>Sep. 30, 2022</td>
-        <td></td>
-        <td>进行中</td>
+        <td>Oct. 8, 2022</td>
+        <td>已完成</td>
         <td></td>
     </tr>
 </table>
