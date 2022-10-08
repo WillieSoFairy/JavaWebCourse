@@ -18,8 +18,8 @@ public class SecondServlet extends HttpServlet {
         Student_0930 student = (Student_0930) request.getAttribute("student");
         response.setContentType("text/html;charset=UTF-8");
         PrintWriter out = response.getWriter();
-        out.println("学号：" + student.getStuID() + "<br/>");
-        out.println("姓名：" + new String(student.getStuName() + "<br/>"));
+        out.println("学号：" + student.getStuID() + "</br>");
+        out.println("姓名：" + new String(student.getStuName() + "</br>"));
         out.println("<a href=\"/WEB_20220930/html/input.html\">返回</a>");
     }
 
