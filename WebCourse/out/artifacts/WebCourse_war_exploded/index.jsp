@@ -42,7 +42,7 @@
         <td>Sep. 30, 2022</td>
         <td>Oct. 8, 2022</td>
         <td>已完成</td>
-        <td></td>
+        <td><a href="/report/report_20221008.pdf" target="_blank">查看/下载</a></td>
     </tr>
 </table>
 </body>
