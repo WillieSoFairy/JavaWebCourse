@@ -33,11 +33,11 @@
         <servlet-class>WEB_20220930.ConfigDemoServlet</servlet-class>
         <init-param>
             <param-name>email</param-name>
-            <param-value>1517405788@qq.com</param-value>
+            <param-value>willieSo@willie.com</param-value>
         </init-param>
         <init-param>
             <param-name>telephone</param-name>
-            <param-value>18129509819</param-value>
+            <param-value>709394</param-value>
         </init-param>
 
         <load-on-startup>1</load-on-startup>

@@ -12,9 +12,11 @@ public class ConfigDemoServlet extends HttpServlet {
     ServletConfig config = null;
     String email = null;
     String telephone = null;
+    ServletContext context = null;
 
     public void init() {
         config = getServletConfig();
+        context = getServletContext();
         servletName = config.getServletName();
         email = config.getInitParameter("email");
         telephone = config.getInitParameter("telephone");
@@ -28,6 +30,8 @@ public class ConfigDemoServlet extends HttpServlet {
         out.println("Email地址：" + email + "<br>");
         out.println("电话：" + telephone);
         out.println("</body></html>");
+        context.log(email);
+        context.log(telephone);
     }
 
 }
