@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-登录失败：默认密码为000000<br>
+登录失败：默认密码为 123456<br>
 请重试！
 </body>
 </html>

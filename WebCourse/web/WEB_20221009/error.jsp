@@ -11,8 +11,8 @@
 <body>
 <%
     String password = request.getParameter("password");
-    if (!password.equals("000000")) {
-        throw new RuntimeException("默认密码为000000");
+    if (!password.equals("123456")) {
+        throw new RuntimeException("默认密码为 123456");
     }
 %>
 <% String name = request.getParameter("name");%>
