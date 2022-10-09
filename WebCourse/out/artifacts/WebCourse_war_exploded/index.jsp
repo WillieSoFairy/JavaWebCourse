@@ -45,7 +45,7 @@
         <td><a href="/report/report_20221008.pdf" target="_blank">查看/下载</a></td>
     </tr>
     <tr>
-        <td>实验四：JSP基本语法与页面指令</td>
+        <td><a href="/WEB_20221009/HomePage.html" target="_blank">实验四：JSP基本语法与页面指令</a></td>
         <td>Oct. 9, 2022</td>
         <td></td>
         <td>进行中</td>
