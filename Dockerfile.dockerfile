@@ -12,3 +12,4 @@ ENV JAVA_HOME=/usr/local/java/jdk-17
 ENV PATH=$JAVA_HOME/bin:$PATH
 
 WORKDIR /home
+aaa
