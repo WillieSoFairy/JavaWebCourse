@@ -52,7 +52,7 @@
         <td></td>
     </tr>
     <tr>
-        <td>实验五：JSP隐含对象与作用域</td>
+        <td><a href="/WEB_20221014/HomePage.html" target="_blank">实验五：JSP隐含对象与作用域</a></td>
         <td>Oct. 14, 2022</td>
         <td></td>
         <td>未开始</td>
