@@ -58,6 +58,13 @@
         <td>进行中</td>
         <td></td>
     </tr>
+    <tr>
+        <td>实验六：Web组件重用与JavaBeans</td>
+        <td>Oct. 21, 2022</td>
+        <td></td>
+        <td>进行中</td>
+        <td></td>
+    </tr>
 </table>
 </body>
 </html>
