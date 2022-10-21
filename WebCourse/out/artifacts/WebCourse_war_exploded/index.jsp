@@ -59,7 +59,7 @@
         <td></td>
     </tr>
     <tr>
-        <td>实验六：Web组件重用与JavaBeans</td>
+        <td><a href="/WEB_20221021/HomePage.html" target="_blank">实验六：Web组件重用与JavaBeans</a></td>
         <td>Oct. 21, 2022</td>
         <td></td>
         <td>进行中</td>
