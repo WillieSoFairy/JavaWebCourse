@@ -49,21 +49,21 @@
         <td>Oct. 9, 2022</td>
         <td>Oct. 27, 2022</td>
         <td>已完成</td>
-        <td></td>
+        <td><a href="/report/report_20221009.pdf" target="_blank">查看/下载</a></td>
     </tr>
     <tr>
         <td><a href="/WEB_20221014/HomePage.html" target="_blank">实验五：JSP隐含对象与作用域</a></td>
         <td>Oct. 14, 2022</td>
         <td>Oct. 27, 2022</td>
         <td>已完成</td>
-        <td></td>
+        <td><a href="/report/report_20221014.pdf" target="_blank">查看/下载</a></td>
     </tr>
     <tr>
         <td><a href="/WEB_20221021/HomePage.html" target="_blank">实验六：Web组件重用与JavaBeans</a></td>
         <td>Oct. 21, 2022</td>
         <td>Oct. 27, 2022</td>
         <td>已完成</td>
-        <td></td>
+        <td><a href="/report/report_20221021.pdf" target="_blank">查看/下载</a></td>
     </tr>
 </table>
 </body>
