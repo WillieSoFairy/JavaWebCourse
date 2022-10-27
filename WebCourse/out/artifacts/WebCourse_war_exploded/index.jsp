@@ -47,22 +47,22 @@
     <tr>
         <td><a href="/WEB_20221009/HomePage.html" target="_blank">实验四：JSP基本语法与页面指令</a></td>
         <td>Oct. 9, 2022</td>
-        <td></td>
-        <td>进行中</td>
+        <td>Oct. 27, 2022</td>
+        <td>已完成</td>
         <td></td>
     </tr>
     <tr>
         <td><a href="/WEB_20221014/HomePage.html" target="_blank">实验五：JSP隐含对象与作用域</a></td>
         <td>Oct. 14, 2022</td>
-        <td></td>
-        <td>进行中</td>
+        <td>Oct. 27, 2022</td>
+        <td>已完成</td>
         <td></td>
     </tr>
     <tr>
         <td><a href="/WEB_20221021/HomePage.html" target="_blank">实验六：Web组件重用与JavaBeans</a></td>
         <td>Oct. 21, 2022</td>
-        <td></td>
-        <td>进行中</td>
+        <td>Oct. 27, 2022</td>
+        <td>已完成</td>
         <td></td>
     </tr>
 </table>
