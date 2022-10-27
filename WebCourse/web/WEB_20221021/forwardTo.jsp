@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%
     String userName = request.getParameter("userName");
-    String welcomeStr = "欢迎光临本站";
+    String welcomeStr = "你好呀！";
     welcomeStr = userName + "," + welcomeStr;
     out.print(welcomeStr);
 %>

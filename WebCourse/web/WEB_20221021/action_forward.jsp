@@ -10,7 +10,7 @@
 <head><title>Forward Test</title></head>
 <body>
 <jsp:forward page="forwardTo.jsp">
-    <jsp:param name="userName" value="Hacker"/>
+    <jsp:param name="userName" value="Willie"/>
 </jsp:forward>
 </body>
 </html>
