@@ -12,7 +12,7 @@
 <body>
 <h2>out对象的使用</h2>
 <%
-    out.print("学习使用out对象");
+    out.print("这是WIllie的out对象");
     int buffer = out.getBufferSize();
     int available = out.getRemaining();
 %>
