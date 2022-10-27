@@ -7,19 +7,19 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-<head><title>New Century Web Bookstore</title></head>
+<head><title>WILLIE's BLOG</title></head>
 <body bgcolor="#FFFFFF">
 
 <%@ include file="/WEB-INF/frag/header.html" %>
 <table border=0 cellspacing=5 cellpadding=5 width="100%">
     <tr>
         <td>
-            <p align="center"><b>欢迎光临新世纪网上书店！</b></p>
+            <p align="center"><b>欢迎光临Willie的博客！</b></p>
         </td>
     </tr>
     <tr>
         <td>
-            <p align="center"><b><a href="/bookstore/catalog">开始购买图书</a></b>
+            <p align="center"><b><a href="/bookstore/catalog">Getting Start</a></b>
         </td>
     </tr>
 </table>

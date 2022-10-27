@@ -7,4 +7,4 @@
 --%>
 <%@ page pageEncoding="UTF-8" %>
 <hr>
-<center><em>Copyright &copy; 2008 New Century Web Bookstore, Inc. </em></center>
+<center><em>Copyright &copy; 2022 Willie, Inc. </em></center>

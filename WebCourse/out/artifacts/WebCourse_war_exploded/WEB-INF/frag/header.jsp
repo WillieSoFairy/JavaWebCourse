@@ -8,8 +8,8 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <hr>
 <center>
-    <h1><font size="+3" color="red">新世纪 </font>
-        <font size="+3" color="purple">网上书店</font></h1>
+    <h1><font size="+3" color="red">Willie's</font>
+        <font size="+3" color="purple">BLOG</font></h1>
 </center>
 <hr>
 
