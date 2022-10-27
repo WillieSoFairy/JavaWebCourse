@@ -7,7 +7,7 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-<head><title>New Century Web Bookstore</title></head>
+<head><title>WILLIE's BLOG</title></head>
 <body bgcolor="#FFFFFF">
 
 <jsp:include page="/WEB-INF/frag/header.jsp" flush="true"/>
