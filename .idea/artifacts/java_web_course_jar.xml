@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java-web-course:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_web_course_jar</output-path>
+    <root id="archive" name="java-web-course.jar">
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../apache-tomcat-9.0.65/lib/servlet-api.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
