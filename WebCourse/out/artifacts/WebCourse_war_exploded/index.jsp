@@ -65,6 +65,13 @@
         <td>已完成</td>
         <td><a href="/report/report_20221021.pdf" target="_blank">查看/下载</a></td>
     </tr>
+    <tr>
+        <td><a href="/WEB_20221028/HomePage.html" target="_blank">实验七：会话管理</a></td>
+        <td>Oct. 28, 2022</td>
+        <td></td>
+        <td>进行中</td>
+        <td></td>
+    </tr>
 </table>
 </body>
 </html>
