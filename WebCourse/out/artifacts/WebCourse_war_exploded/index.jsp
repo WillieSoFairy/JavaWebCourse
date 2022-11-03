@@ -68,8 +68,8 @@
     <tr>
         <td><a href="/WEB_20221028/HomePage.html" target="_blank">实验七：会话管理</a></td>
         <td>Oct. 28, 2022</td>
-        <td></td>
-        <td>进行中</td>
+        <td>Nov. 3, 2022</td>
+        <td>已完成</td>
         <td></td>
     </tr>
 </table>

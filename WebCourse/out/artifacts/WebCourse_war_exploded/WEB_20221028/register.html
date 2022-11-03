@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <title>考试申请</title>
+</head>
+
+<body>
+    <form method="post" action="/WEB_20221028/CheckServlet">
+        姓&nbsp;&nbsp;名：<input type="text" name="name"><br> 考试科目：
+        <span style="font-size:18px;">
+            <select id="projectPorperty" name="subject">
+                <option value="1">语文</option>
+                <option value="2">数学</option>
+                <option value="3">英语</option>
+            </select>
+            <script>
+                form.projectPorperty.value = '${user.projectPorperty}';
+            </script>
+        </span>
+        </br>
+        学&nbsp;&nbsp;号：<input type="text" name="number"><br> 密&nbsp;&nbsp;码：
+        <input type="password" name="password"><br>
+        <input type="submit" value="提交">
+        <input type="reset" value="重设">
+    </form>
+
+</body>
+
+</html>
