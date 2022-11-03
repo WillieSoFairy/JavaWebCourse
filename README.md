@@ -54,3 +54,11 @@ Web编程技术实验源码
 2. &lt;jsp:include&gt;、&lt;jsp:forward&gt;、&lt;jsp:param&gt;标准动作的使用
 3. &lt;jsp:forward&gt;标准动作的使用
 4. &lt;jsp:useBean&gt;、&lt;jsp:setProperty&gt;、&lt;jsp:getProperty&gt;的使用
+
+### 实验七 *20221103*：会话管理
+
+实验内容包括：
+
+1. 会话机制
+2. setAttribute()和getAttribute()
+3. 设置会话超时时间以及通过Session.invalidate()方法实现会话的销毁
