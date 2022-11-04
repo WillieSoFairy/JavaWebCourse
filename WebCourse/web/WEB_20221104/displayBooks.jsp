@@ -14,7 +14,7 @@
 <%
     try {
         Class.forName("com.mysql.cj.jdbc.Driver");
-        String dburl = "jdbc:mysql://localhost:13306/bookstore";
+        String dburl = "jdbc:mysql://172.17.0.4:13306/bookstore";
         Connection conn = DriverManager.getConnection(dburl, "javawebUser", "123456");
         Statement stmt = conn.createStatement();
         String sql = "SELECT * FROM books";
