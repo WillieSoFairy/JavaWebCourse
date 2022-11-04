@@ -72,6 +72,13 @@
         <td>已完成</td>
         <td><a href="/report/report_20221103.pdf" target="_blank">查看/下载</a></td>
     </tr>
+    <tr>
+        <td><a href="/WEB_20221104/HomePage.html" target="_blank">实验八：JDBC访问数据库</a></td>
+        <td>Nov. 4, 2022</td>
+        <td></td>
+        <td>进行中</td>
+        <td></td>
+    </tr>
 </table>
 </body>
 </html>
