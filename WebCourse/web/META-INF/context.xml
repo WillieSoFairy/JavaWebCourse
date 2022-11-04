@@ -10,6 +10,6 @@
             username="javawebUser"
             password="123456"
             type="javax.sql.DataSource"
-            url="jdbc:mysql://172.17.0.4:13306/bookstore"
+            url="jdbc:mysql://localhost:13306/bookstore"
             validationQuery="select 1"/>
 </Context>
