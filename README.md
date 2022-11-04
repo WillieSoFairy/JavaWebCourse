@@ -62,3 +62,11 @@ Web编程技术实验源码
 1. 会话机制
 2. setAttribute()和getAttribute()
 3. 设置会话超时时间以及通过Session.invalidate()方法实现会话的销毁
+
+### 实验八 *20221104*：JDBC访问数据库
+
+实验内容包括：
+
+1. JDBC连接测试
+2. 访问books表中的数据
+3. 通过数据源访问数据库
