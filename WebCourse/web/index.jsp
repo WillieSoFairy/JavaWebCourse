@@ -34,6 +34,7 @@
             <ul>
                 <li><a href="https://tomcat.apache.org/download-90.cgi" target="_blank">Apache Tomcat 9.0.68</a></li>
                 <li><a href="https://www.jetbrains.com/idea/" target="_blank">IntelliJ IDEA</a></li>
+                <li><a href="https://www.oracle.com/cn/java/technologies/downloads/" target="_blank">Java</a></li>
             </ul>
         </td>
     </tr>
