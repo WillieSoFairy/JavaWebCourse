@@ -22,6 +22,7 @@
         <th>报告提交日期</th>
         <th>状态</th>
         <th>报告原文</th>
+        <th>相关资源</th>
     </tr>
     <tr>
         <td><a href="WEB_20220910/login.jsp" target="_blank">实验一：简单的Servlet与JSP</a></td>
@@ -29,6 +30,12 @@
         <td>Sep. 14, 2022</td>
         <td>已完成</td>
         <td><a href="/report/report_20220909.pdf" target="_blank">查看/下载</a></td>
+        <td>
+            <ul>
+                <li><a href="https://tomcat.apache.org/download-90.cgi" target="_blank">Apache Tomcat 9.0.68</a></li>
+                <li><a href="https://www.jetbrains.com/idea/" target="_blank">IntelliJ IDEA</a></li>
+            </ul>
+        </td>
     </tr>
     <tr>
         <td><a href="WEB_20220916/HomePage.html" target="_blank">实验二：HTTP请求、响应对象</a></td>
@@ -36,6 +43,7 @@
         <td>Sep. 29, 2022</td>
         <td>已完成</td>
         <td><a href="/report/report_20220929.pdf" target="_blank">查看/下载</a></td>
+        <td></td>
     </tr>
     <tr>
         <td><a href="WEB_20220930/HomePage.html" target="_blank">实验三：Servlet容器模型</a></td>
@@ -43,6 +51,11 @@
         <td>Oct. 8, 2022</td>
         <td>已完成</td>
         <td><a href="/report/report_20221008.pdf" target="_blank">查看/下载</a></td>
+        <td>
+            <ul>
+                <li><a href="https://www.docker.com/" target="_blank">docker</a></li>
+            </ul>
+        </td>
     </tr>
     <tr>
         <td><a href="/WEB_20221009/HomePage.html" target="_blank">实验四：JSP基本语法与页面指令</a></td>
@@ -50,6 +63,7 @@
         <td>Oct. 27, 2022</td>
         <td>已完成</td>
         <td><a href="/report/report_20221009.pdf" target="_blank">查看/下载</a></td>
+        <td></td>
     </tr>
     <tr>
         <td><a href="/WEB_20221014/HomePage.html" target="_blank">实验五：JSP隐含对象与作用域</a></td>
@@ -57,6 +71,7 @@
         <td>Oct. 27, 2022</td>
         <td>已完成</td>
         <td><a href="/report/report_20221014.pdf" target="_blank">查看/下载</a></td>
+        <td></td>
     </tr>
     <tr>
         <td><a href="/WEB_20221021/HomePage.html" target="_blank">实验六：Web组件重用与JavaBeans</a></td>
@@ -64,6 +79,7 @@
         <td>Oct. 27, 2022</td>
         <td>已完成</td>
         <td><a href="/report/report_20221021.pdf" target="_blank">查看/下载</a></td>
+        <td></td>
     </tr>
     <tr>
         <td><a href="/WEB_20221028/HomePage.html" target="_blank">实验七：会话管理</a></td>
@@ -71,6 +87,7 @@
         <td>Nov. 3, 2022</td>
         <td>已完成</td>
         <td><a href="/report/report_20221103.pdf" target="_blank">查看/下载</a></td>
+        <td></td>
     </tr>
     <tr>
         <td><a href="/WEB_20221104/HomePage.html" target="_blank">实验八：JDBC访问数据库</a></td>
@@ -78,6 +95,13 @@
         <td></td>
         <td>进行中</td>
         <td></td>
+        <td>
+            <ul>
+                <li><a href="/report/mysql-connector-java-8.0.25.jar"
+                       target="_blank">mysql-connector-java-8.0.25.jar</a></li>
+                <li><a href="https://www.jetbrains.com/zh-cn/datagrip/" target="_blank">DataGrip</a></li>
+            </ul>
+        </td>
     </tr>
 </table>
 </body>
