@@ -19,7 +19,7 @@
 <body>
 <% //加载驱动程序
     Class.forName("com.mysql.cj.jdbc.Driver").newInstance();
-    String url = "jdbc:mysql://localhost:13306/JavaWeb";
+    String url = "jdbc:mysql://172.17.0.4:13306/JavaWeb";
     String user = "javawebUser";
     String password = "123456";
     //建立连接对象
