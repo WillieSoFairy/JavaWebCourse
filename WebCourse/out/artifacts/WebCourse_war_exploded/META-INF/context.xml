@@ -7,8 +7,8 @@
             maxIdle="2"
             maxWait="5000"
             name="jdbc/bookDS"
-            username="javawebUser"
-            password="123456"
+            username="wjsUser"
+            password="211211"
             type="javax.sql.DataSource"
             url="jdbc:mysql://106.55.224.60:13306/bookstore?useSSL=false"
             validationQuery="select 1"/>

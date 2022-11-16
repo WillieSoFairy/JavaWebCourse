@@ -12,10 +12,12 @@
 <%@page import="java.sql.Connection" %>
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>JSP Page</title>
 </head>
+
 <body>
 <% //加载驱动程序
     Class.forName("com.mysql.cj.jdbc.Driver").newInstance();
@@ -45,5 +47,5 @@
     conn.close();
 %>
 </body>
-</html>
 
+</html>
