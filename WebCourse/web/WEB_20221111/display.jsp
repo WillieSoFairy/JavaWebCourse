@@ -9,17 +9,32 @@
 <jsp:useBean id="book" class="WEB_20221111.beans.BookBean" scope="request"/>
 <html>
 <body>
-书号：
-<jsp:getProperty name="book" property="bookid"/>
-书名：
-<jsp:getProperty name="book" property="title"/>
-作者：
-<jsp:getProperty name="book" property="author"/>
-出版社：
-<jsp:getProperty name="book" property="publisher"/>
-价格：
-<jsp:getProperty name="book" property="price"/>
-
+<table border="1">
+    <tr>
+        <th>书号</th>
+        <th>书名</th>
+        <th>作者</th>
+        <th>出版社</th>
+        <th>价格</th>
+    </tr>
+    <tr>
+        <td>
+            <jsp:getProperty name="book" property="bookid"/>
+        </td>
+        <td>
+            <jsp:getProperty name="book" property="title"/>
+        </td>
+        <td>
+            <jsp:getProperty name="book" property="author"/>
+        </td>
+        <td>
+            <jsp:getProperty name="book" property="publisher"/>
+        </td>
+        <td><span>￥</span>
+            <jsp:getProperty name="book" property="price"/>
+        </td>
+    </tr>
+</table>
 <a href="/WEB_20221104/displayBooks_2.jsp" target="_blank">查看所有书目</a>
 </body>
 </html>
