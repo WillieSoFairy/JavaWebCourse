@@ -42,6 +42,7 @@
         </tr>
     </table>
 </form>
+<a href="/WEB_20221104/displayBooks_2.jsp" target="_blank">查看所有书目</a>
 </body>
 </html>
 

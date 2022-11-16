@@ -19,6 +19,8 @@
 <jsp:getProperty name="book" property="publisher"/>
 价格：
 <jsp:getProperty name="book" property="price"/>
+
+<a href="/WEB_20221104/displayBooks_2.jsp" target="_blank">查看所有书目</a>
 </body>
 </html>
 
