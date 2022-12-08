@@ -1,11 +1,14 @@
 package WEB_20221111.dao;
 
-import java.sql.*;
-import javax.sql.*;
-import javax.naming.*;
-import java.util.ArrayList;
-
 import WEB_20221111.beans.BookBean;
+
+import javax.naming.InitialContext;
+import javax.naming.NamingException;
+import javax.sql.DataSource;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
 
 
 public class BookDao {
