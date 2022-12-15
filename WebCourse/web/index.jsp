@@ -115,9 +115,9 @@
     <tr>
         <td><a href="/WEB_20221209/HomePage.html" target="_blank">实验十：Servlet事件处理</a></td>
         <td>Dec. 09, 2022</td>
-        <td></td>
-        <td>进行中</td>
-        <td></td>
+        <td>Dec. 15, 2022</td>
+        <td>已完成</td>
+        <td><a href="/report/report_20221215.pdf" target="_blank">查看/下载</a></td>
         <td></td>
     </tr>
 </table>
